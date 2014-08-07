@@ -1,0 +1,25 @@
+name: stealthyone
+description:  'Stealth2800''s Official Website'
+
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
+
+# url: http://localhost/
+
+owner:
+    name: Stealth2800
+    twitter: Stealth2800
+    github: Stealth2800
+    bitbucket: Stealth2800
+    disqus_shortname: stealthyone
+
+ga_id: #
+ga_username: #
+
+permalink: /:year/:month/:title/
+timezone: America/Los_Angeles
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]

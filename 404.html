@@ -1,0 +1,27 @@
+---
+layout: page
+title: 404
+showtitle: false
+---
+
+<div class="text-center">
+<!--<div align="center">-->
+  <h2>Page not found</h2>
+  <script>
+    var phrases = [
+      "Whoops!  This wasn't supposed to happen...",
+      "Fancy meeting you here!",
+      "Perhaps you should try a different link.",
+      "4040404040404",
+      "This is not the page you're looking for.",
+      "<code>bash: cd: {LOC}: No such file or directory</code>",
+      "<code>Exception in thread \"main\" java.lang.NullPointerException: Page not found</code>"
+    ];
+
+    var use = phrases[Math.floor(Math.random() * phrases.length)];
+    var dir = document.URL.substring(document.URL.indexOf('/', 7) + 1);
+    document.write("<p>" + use.replace("{LOC}", dir) + "</p>");
+  </script>
+  <h3><a href="/">Back to the home page.</a></h3>
+</div>
+
