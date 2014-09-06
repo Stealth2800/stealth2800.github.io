@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Bukkit"
+tags: meta, bukkit, development
+comments: true
+---
+
+I've been doing Bukkit plugin development for nearly a year and a half now.  My programming has been limited to plugins alone and I have not done any other form of programming since I started making plugins.  Consequently, I'm feeling a bit burned out overall.  It's hard for me to stay focused on plugins as much as I could before, and that is seriously affecting my productivity. As a result, I am taking a break from plugin development, at least larger projects.  I will still do smaller plugin requests, but that's about it.
+
+I currently have a large work-in-progress project for Bukkit called 'Gamegine'.  However, with all of the recent drama in regard to Bukkit, I feel I should hold off until the situation calms down and is resolved.  If things go smoothly, I plan to do some work on Gamegine to hopefully get it finished.  However, progress will be slower than it was before since I will be working on other projects.
+
+My main goal is to do some game development, using Java and LibGDX.  I will most likely be releasing any games I create as Android apps and potentially iOS apps in the future.  The entire reason I got into programming in the first place was to do game development, and I've hardly done any thus far.
+
+That's about all for now.  I hope I can start releasing some interesting content relating to work-in-progress games I may have soon.  Thanks for reading!
+
+**Stealth**
